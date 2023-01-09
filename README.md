@@ -1,4 +1,4 @@
-# FCC_NumberGuessingGame
+# NumberGuessingGame
 freeCodeCamp Number Guessing Game DB certification challenge
 
 This project is one of five required projects for the FreeCodecamp Relational Database Certification 
